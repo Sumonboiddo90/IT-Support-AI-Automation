@@ -43,3 +43,7 @@ The monthly usage control is incomplete: the workflow checks whether the count i
 ## Author
 
 Sumon Boiddo
+
+## Workflow Overview
+
+![n8n email summary workflow](workflow-overview.png)
